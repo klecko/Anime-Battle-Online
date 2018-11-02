@@ -1,0 +1,3 @@
+JugadoresEncontrados=[]
+
+s = None #socket
